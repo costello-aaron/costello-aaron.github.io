@@ -1,0 +1,82 @@
+body {
+    font-family: 'Courier New', sans-serif;
+    background-color: rgb(27, 27, 27);
+    color: antiquewhite;
+}
+
+nav.navBar {
+    margin: 30px;
+    font-size: 20px;
+}
+
+a.home {
+    margin-right: 20px;
+    color: antiquewhite;
+}
+
+a.resume {
+    margin-right: 20px;
+    color: antiquewhite;
+}
+
+a.projects {
+    margin-right: 20px;
+    color: antiquewhite;
+}
+
+main {
+    margin-bottom: 100px;
+}
+
+h1.helloWorld {
+    font-size: 400%;
+    font-weight: 100;
+    margin: 100px;
+    text-align: center;
+}
+
+#mainContent {
+    display: flex;
+}
+
+#mainContent img {
+    float: left;
+    width: 300px;
+    height: auto;
+    margin-right: 100px;
+    margin-left: 450px;
+}
+
+#mainContent p {
+    margin-right: 450px;
+}
+
+div.footer {
+    display: flex;
+    margin: auto;
+}
+
+a.gmail img {
+    display: flex;
+    width: 50px;;
+    margin-left: 30px;
+    margin-right: 25px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+a.linkedin img {
+    display: flex;
+    width: 50px;
+    margin-right: 25px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+a.git img {
+    display: flex;
+    width: 50px;
+    margin-right: 25px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}

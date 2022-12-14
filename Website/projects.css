@@ -1,0 +1,37 @@
+body {
+    font-family: 'Courier New', sans-serif;
+    background-color: rgb(27, 27, 27);
+    color: antiquewhite;
+}
+
+nav.navBar {
+    margin: 30px;
+    font-size: 20px;
+}
+
+a.home {
+    margin-right: 20px;
+    color: antiquewhite;
+}
+
+a.resume {
+    margin-right: 20px;
+    color: antiquewhite;
+}
+
+a.projects {
+    margin-right: 20px;
+    color: antiquewhite;
+}
+
+h1.projectsTitle {
+    font-size: 400%;
+    font-weight: 100;
+    margin: 100px;
+    text-align: center;
+}
+
+p.randomText {
+    text-align: center;
+    font-size: large;
+}
