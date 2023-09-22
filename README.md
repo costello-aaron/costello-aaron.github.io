@@ -8,7 +8,7 @@ Welcome to the repository for my portfolio website. This repository contains the
 
 ## About
 
-This project serves as my personal portfolio website, where I showcase my skills, projects, and experiences in [your profession or field]. Whether you're a potential employer, client, or just someone interested in my work, I hope you find this website informative and engaging.
+This project serves as my personal portfolio website, where I showcase my skills, projects, and experiences in Computer Science. Whether you're a potential employer, client, or just someone interested in my work, I hope you find this website informative and engaging.
 
 ## Features
 
