@@ -5,11 +5,6 @@ Welcome to the repository for my portfolio website. This repository contains the
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
 
@@ -20,6 +15,3 @@ This project serves as my personal portfolio website, where I showcase my skills
 - **Home Page**: An introduction to who I am and what I do.
 - **Portfolio**: A collection of my projects with descriptions and links.
 - **Resume**: A downloadable PDF version of my resume.
-- **Blog (Optional)**: [If you have a blog, mention it here]
-- **Contact**: Ways to get in touch with me.
-- **Responsive Design**: The website is optimized for various screen sizes and devices.
