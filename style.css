@@ -5,8 +5,8 @@ body {
 }
 
 nav.navBar {
-    margin: 5%;
-    font-size: 5%;
+    margin: 3%;
+    font-size: 150%;
 }
 
 a.home {
@@ -43,11 +43,14 @@ h1.helloWorld {
 #mainContent img {
     width: 15%;
     height: auto;
+    margin: auto;
     margin-right: 5%;
+    margin-left: 15%;
 }
 
 #mainContent p {
 flex: 1;
+    margin-right: 15%;
 }
 
 div.footer {
@@ -57,15 +60,18 @@ div.footer {
 
 a.gmail img {
     display: flex;
-    width: 10%;
+    width: 100%;
+    margin: 15%;
 }
 
 a.linkedin img {
     display: flex;
-    width: 10%;
+    width: 100%;
+    margin: 15%;
 }
 
 a.git img {
     display: flex;
-    width: 10%;
+    width: 100%;
+    margin: 15%;
 }
