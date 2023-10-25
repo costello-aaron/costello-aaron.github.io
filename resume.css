@@ -5,29 +5,29 @@ body {
 }
 
 nav.navBar {
-    margin: 30px;
-    font-size: 20px;
+    margin: 1%;
+    font-size: 1%;
 }
 
 a.home {
-    margin-right: 20px;
+    margin-right: 1%;
     color: antiquewhite;
 }
 
 a.resume {
-    margin-right: 20px;
+    margin-right: 1%;
     color: antiquewhite;
 }
 
 a.projects {
-    margin-right: 20px;
+    margin-right: 1%;
     color: antiquewhite;
 }
 
 h1.resumeTitle {
     font-size: 400%;
     font-weight: 100;
-    margin: 100px;
+    margin: 5%;
     text-align: center;
 }
 
